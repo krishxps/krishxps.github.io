@@ -4,13 +4,14 @@
     }
 
     body {
-        background-color: white;
+        background-color: green;
     }
 
     h1 {
        margin-bottom: 15px;
     text-align: center;
-    color: #ff4532;
+    color: Orange
+;
     font-size: 50px;
     }
 
@@ -44,7 +45,7 @@
         text-align: center;
         font-size: 125%;
         font-weight: bold;
-        background-color: #FFB6C1;
+        background-color: LightPink;
 
     }
 
